@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MORGAN OKUMU</h1>
-<h3 align="center">A passionate multi-versated developer handling full stack web development, AI, Data Science, ... conversant in C++, C, Python, Java, Shell scripts(bash, fish, powershell), Algorithms dev e.t.c</h3>
+<h3 align="center">A passionate multi-versated developer handling full stack web development, AI, Data Science, ... conversant in C++, C#, C, Java, Php(Laravel), Python(Django, Flask, and others), Shell scripts(bash, fish, powershell), Algorithms dev e.t.c</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomous-maker&label=Profile%20views&color=0e75b6&style=flat" alt="venomous-maker" /> </p>
 
