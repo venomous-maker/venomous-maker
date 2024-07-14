@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/okumu_morgan" target="blank"><img src="https://img.shields.io/twitter/follow/okumu_morgan?logo=twitter&style=for-the-badge" alt="okumu_morgan" /></a> </p>
 
-- 🔭 I’m currently working on [ven_lang development](...)
+- 🔭 I’m currently working on [ven_lang development, e-Commerce System, Management Systems, POS, Linux Packages, Desktop Application, Full Stack Development](...)
 
 - 🌱 I’m currently learning **Deeper OS development**
 
