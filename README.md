@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MORGAN OKUMU</h1>
 <h3 align="center">A passionate multi-versated developer handling full stack web development, AI, Data Science, ... conversant in C++, C#, C, Java, Php(Laravel), Python(Django, Flask, and others), Shell scripts(bash, fish, powershell), Algorithms dev e.t.c</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venomous-maker&label=Profile%20views&color=0e75b6&style=flat" alt="venomous-maker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venomous-maker&label=Profile%20views&color=0e75b6&style=flat&include_all_commits=true&count_private=true" alt="venomous-maker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venomous-maker" alt="venomous-maker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?&include_all_commits=true&count_private=true"><img src="https://github-profile-trophy.vercel.app/?username=venomous-maker&include_all_commits=true&count_private=true" alt="venomous-maker" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/okumu_morgan" target="blank"><img src="https://img.shields.io/twitter/follow/okumu_morgan?logo=twitter&style=for-the-badge" alt="okumu_morgan" /></a> </p>
 
