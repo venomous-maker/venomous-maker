@@ -47,7 +47,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomous-maker&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="venomous-maker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venomous-maker&show_icons=true&locale=en&count_private=true" alt="venomous-maker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venomous-maker&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="venomous-maker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venomous-maker&include_all_commits=true&count_private=true" alt="venomous-maker" /></p>
 
