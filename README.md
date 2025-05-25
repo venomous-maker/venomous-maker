@@ -49,8 +49,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venomous-maker&show_icons=true&locale=en" alt="venomous-maker" /></p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=venomous-maker&theme=white&hide_border=false&show_icons=true&locale=en)<br/>
+### CONTRIBUTION SUMMARY
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomous-maker&theme=aura_dark) 
+<br \>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venomous-maker&theme=aura_dark) 
+<br \>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venomous-maker&theme=aura_dark) 
+<br \>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomous-maker&theme=aura_dark) 
+<br \>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venomous-maker&theme=aura_dark&utcOffset=8)
+<br \>
+
+![](https://nirzak-streak-stats.vercel.app/?user=venomous-maker&theme=white&hide_border=false&show_icons=true&locale=en)<br/>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venomous-maker&include_all_commits=true&count_private=true" alt="venomous-maker" /></p>-->
 
