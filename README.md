@@ -51,13 +51,9 @@
 
 ### CONTRIBUTION SUMMARY
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomous-maker&theme=aura_dark) 
-<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venomous-maker&theme=aura_dark) 
-
+[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venomous-maker&theme=aura_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venomous-maker&theme=aura_dark) 
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomous-maker&theme=aura_dark) 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomous-maker&theme=aura_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venomous-maker&theme=aura_dark&utcOffset=8)
 <br>
 
