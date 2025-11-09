@@ -58,10 +58,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomous-maker&theme=aura_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venomous-maker&theme=aura_dark&utcOffset=8)
 
-
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muthuri-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=venomous-maker&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
 
 </div>
 
