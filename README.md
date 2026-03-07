@@ -21,11 +21,11 @@
 
 - 💬 Ask me about **AI, Python, Lexers, Dta Science, R, ML, WxWidgets, GTK, x85 instructions, GCC/G++M Linux, Cyber Security, Mobile App developments, Algorithms e.t.c**
 
-- 📫 How to reach me **tekversa@gmail.com**
+- 📫 How to reach me **morganokumu8@gmail.com**
 
 - 📄 Know about my experiences [...](...)
 
-- ⚡ Fun fact **Moodless Introvert**
+- ⚡ Fun fact **Atleast I code everyday**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
